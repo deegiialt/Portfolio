@@ -14,7 +14,8 @@
 		list-style-type: none;
 		text-align: center;
 		display: inline-block;
-		padding-right: 35px;
+		padding-right: 15px;
+		padding-left: 15px;
 	}
 	
 	li.navbar {
@@ -66,13 +67,29 @@
 	/* Styling Footer */
 
 	footer {
-		background-color: #cccccc;
-		opacity: 0.5;
 		padding: 10px;
 		text-align: center;
 
 	}
 
 	.footer {
-		text-size: 10px;
+		font-size: 10px;
+	}
+
+	.linkedin {
+		width: 20px;
+		height: 20px;
+		padding: 5px;
+	}
+
+	.github {
+		width: 20px;
+		height: 20px;
+		padding: 5px;
+	}
+
+	.gmail {
+		width: 20px;
+		height: 20px;
+		padding: 5px;
 	}
